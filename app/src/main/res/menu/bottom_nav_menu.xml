@@ -2,14 +2,14 @@
 
     <item
         android:id="@+id/nav_home"
-        android:icon="@android:drawable/ic_menu_view"
+        android:icon="@drawable/img"
         android:title="Spain" />
     <item
         android:id="@+id/nav_dashboard"
-        android:icon="@android:drawable/ic_menu_manage"
+        android:icon="@drawable/img_1"
         android:title="Dutch" />
     <item
         android:id="@+id/nav_notifications"
-        android:icon="@android:drawable/ic_menu_info_details"
+        android:icon="@drawable/people"
         android:title="Profile" />
 </menu>
