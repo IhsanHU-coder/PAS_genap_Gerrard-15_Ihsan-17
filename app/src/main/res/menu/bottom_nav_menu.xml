@@ -10,6 +10,7 @@
         android:title="Netherlands" />
     <item
         android:id="@+id/nav_jadwal"
+        android:icon="@drawable/img_3"
         android:title="Jadwal"
         />
     <item
