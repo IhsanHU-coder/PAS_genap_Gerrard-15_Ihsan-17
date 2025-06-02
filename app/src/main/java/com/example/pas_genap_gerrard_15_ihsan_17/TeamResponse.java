@@ -9,7 +9,8 @@ public class TeamResponse {
         return teams;
     }
 
-    public void setTeams(List<Team> teams) {
+    public void setTeams(List<Team> teams)
+    {
         this.teams = teams;
     }
 }
