@@ -36,6 +36,8 @@ public class MainActivity extends AppCompatActivity {
                 fragment = new DashboardFragment();
             } else if (itemId == R.id.nav_notifications) {
                 fragment = new NotificationsFragment();
+            } else if (itemId == R.id.nav_jadwal) {
+                fragment = new JadwalFragment();
             }
 
             if (fragment != null) {
