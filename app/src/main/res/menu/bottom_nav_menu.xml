@@ -11,7 +11,7 @@
     <item
         android:id="@+id/nav_jadwal"
         android:icon="@drawable/img_3"
-        android:title="Jadwal"
+        android:title="Leagues"
         />
     <item
         android:id="@+id/nav_notifications"
